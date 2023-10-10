@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Antonio Quental (@aquental)
-- 👀 I’m interested in AI, Web3, Go, Rust and agile project management
-- 🌱 I’m currently learning Web3, smart contracts, and NFTs and experimenting with technologies like AI.
+- 👀 I’m interested in Web3, Go, Rust and agile project management.
+- 🌱 I’m currently studying Web3, smart contracts, and NFTs and experimenting with differente blockchains.
 - 📫 Reach me at Twitter: @antonioquental
 
 <!---
