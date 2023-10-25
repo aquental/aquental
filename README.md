@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Antonio Quental (@aquental)
-- 👀 I’m interested in Web3, Go, Rust, and agile project management.
-- 🌱 I’m researching Web3, SmartContracts, Dapps, Starknet, ZKProofs, and NFTs and experimenting with blockchains.
+- 👀 I’m interested in Web3 (protocols & security), Go, Rust, and agile project management.
+- 🌱 I’m researching Web3, SmartContracts, Dapps, Starknet, ZKProofs, Security, and NFTs and experimenting with L2 blockchains.
 - 📫 Reach me at Twitter: @antonioquental
 
 <!---
