@@ -30,5 +30,7 @@ aquental/aquental is a ✨ special :sparkles: repository because its `README.md`
 :mailbox: Reach me at
 [![Twitter Badge](https://img.shields.io/badge/-@antonioquental-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/antonioquental)](https://twitter.com/antonioquental), 
 [![Linkedin Badge](https://img.shields.io/badge/-antonioquental-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonioquental)](https://www.linkedin.com/in/antonioquental), 
-[![GitHub followers](https://img.shields.io/github/followers/aquental?label=Follow&style=social)](https://github.com/aquental/?tab=follow),
+[![GitHub followers](https://img.shields.io/github/followers/aquental?label=Follow&style=social)](https://github.com/aquental/?tab=follow)
+<!--,
 [![Gmail Badge](https://img.shields.io/badge/-antonio.quental@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antonio.quental@gmail.com)](mailto:antonio.quental@gmail.com)
+-->
