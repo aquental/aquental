@@ -27,6 +27,8 @@ aquental/aquental is a ✨ special :sparkles: repository because its `README.md`
 
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65b1b25c0c54812283333925?variant=dark)](https://roadmap.sh)
+
 :mailbox: Reach me at
 [![Twitter Badge](https://img.shields.io/badge/-@antonioquental-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/antonioquental)](https://twitter.com/antonioquental), 
 [![Linkedin Badge](https://img.shields.io/badge/-antonioquental-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonioquental)](https://www.linkedin.com/in/antonioquental), 
