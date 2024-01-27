@@ -27,6 +27,8 @@ aquental/aquental is a ✨ special :sparkles: repository because its `README.md`
 
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+
+## 🔎 Studying
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65b1b25c0c54812283333925?variant=dark)](https://roadmap.sh)
 
 :mailbox: Reach me at
