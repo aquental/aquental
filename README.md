@@ -29,7 +29,7 @@ aquental/aquental is a ✨ special :sparkles: repository because its `README.md`
 
 
 ## 🔎 Studying
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65b1b25c0c54812283333925?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65b1b25c0c54812283333925?variant=dark)](https://roadmap.sh)
 
 :mailbox: Reach me at
 [![Twitter Badge](https://img.shields.io/badge/-@antonioquental-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/antonioquental)](https://twitter.com/antonioquental), 
