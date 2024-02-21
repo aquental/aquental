@@ -23,7 +23,7 @@ aquental/aquental is a ✨ special :sparkles: repository because its `README.md`
     <a target="_blank"href="https://www.gitpoap.io/gp/879"><img height=175 alt="Ethereum.org GitHub Contributor 2023" src="https://www.gitpoap.io/_next/image?url=https%3A%2F%2Fassets.poap.xyz%2Fgitpoap3a-2023-ethereumorg-contributor-2022-logo-1671568487547.png&w=750&q=75" />&nbsp;&nbsp;
 </p>
 --->
-## :bulb: Felling lucky ?
+## :bulb: Feeling lucky?
 
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -31,10 +31,9 @@ aquental/aquental is a ✨ special :sparkles: repository because its `README.md`
 ## 🔎 Studying
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65b1b25c0c54812283333925?variant=dark)](https://roadmap.sh)
 
+<a href="https://app.daily.dev/aquental"><img src="https://api.daily.dev/devcards/v2/uWPwJijWSh14csYv5jfq1.png?type=wide&r=tfv" width="652" alt="Antonio J J Quental Jr's Dev Card"/></a>
+
 :mailbox: Reach me at
 [![Twitter Badge](https://img.shields.io/badge/-@antonioquental-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/antonioquental)](https://twitter.com/antonioquental), 
 [![Linkedin Badge](https://img.shields.io/badge/-antonioquental-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonioquental)](https://www.linkedin.com/in/antonioquental), 
 [![GitHub followers](https://img.shields.io/github/followers/aquental?label=Follow&style=social)](https://github.com/aquental/?tab=follow)
-<!--,
-[![Gmail Badge](https://img.shields.io/badge/-antonio.quental@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antonio.quental@gmail.com)](mailto:antonio.quental@gmail.com)
--->
