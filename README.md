@@ -2,7 +2,7 @@
   
 - :wave: Hi, I’m Antonio Quental (<a href="https://github.com/aquental">@aquental</a>).
 - :eyes: Passionate about Web3 (Bitcoin, Ethereum, L2 &amp; L3 protocols, cryptography & security).
-- :hammer:  Go, Rust, Python, C, Java, and agile project management.
+- :hammer:  Go, Rust, Python, C, Java, Solidity, and agile project management.
 - :chart_with_upwards_trend: experienced in <i>Agile</i>, <i>Sequential</i> and <i>Hybrid</i> project management styles.
 - :seedling: I’m researching Web3, SmartContracts, Dapps, Starknet, ZKProofs, Security, Staking, and NFTs and experimenting with L1 and L2 blockchains.
 - :globe_with_meridians: Languages: English (<a href="https://www.efset.org/cert/2MBRa1">C2 proficient</a>), Portuguese (native), Spanish (basic), French (basic).
