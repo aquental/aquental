@@ -29,7 +29,11 @@ aquental/aquental is a ✨ special :sparkles: repository because its `README.md`
 
 
 ## 🔎 Studying
+<!--
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65b1b25c0c54812283333925?variant=dark)](https://roadmap.sh)
+-->
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65b1b25c0c54812283333925?variant=dark&roadmaps=blockchain%2Cgolang%2Csql%2Crust)](https://roadmap.sh)
 
 <a href="https://app.daily.dev/aquental"><img src="https://api.daily.dev/devcards/v2/uWPwJijWSh14csYv5jfq1.png?type=wide&r=tfv" width="652" alt="Antonio J J Quental Jr's Dev Card"/></a>
 
