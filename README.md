@@ -6,7 +6,7 @@
 - :hammer:  Go, Rust, Python, C, Java, Solidity, and L2 scaling solutions.
 - :chart_with_upwards_trend: experienced in _Agile_, _Sequential_ and _Hybrid_ project and product management.
 - :seedling: I’m researching SmartContracts, Dapps, ZK Proofs, Security, Staking, and NFTs and experimenting with L1 and L2 blockchains.
-- :dark_sunglasses: Trying to bring some [Clarity](https://clarity-lang.org/) to my [Bitcoin](https://bitcoin.org/en/) [Stacks](https://www.stacks.co/).
+- :sunglasses: Trying to bring some [Clarity](https://clarity-lang.org/) to my [Bitcoin](https://bitcoin.org/en/) [Stacks](https://www.stacks.co/).
 - :globe_with_meridians: Languages: English (<a href="https://www.efset.org/cert/2MBRa1">C2 proficient</a>), Portuguese (native), Spanish (basic), French (basic).
 - :books: learning about [cryptography](https://www.coursera.org/learn/crypto), [solidity](https://updraft.cyfrin.io/), [bitcoin](https://web3-talents.io/bitcoin-talents/), [digital currencies](https://www.unic.ac.cy/unic-launches-mooc-in-introduction-to-digital-currencies-msc-in-digital-currency/) and [AI](https://cloudonair.withgoogle.com/events/startup-school-ai).
 
