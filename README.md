@@ -1,4 +1,3 @@
-
   
 - :wave: Hi, I’m Antonio Quental (<a href="https://github.com/aquental">@aquental</a>).
 - :eyes: Passionate about Web3 (Bitcoin, Ethereum, Solana, L2 &amp; L3 protocols, cryptography & security).
