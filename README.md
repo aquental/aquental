@@ -2,7 +2,7 @@
 - :wave: Hi, I’m Antonio Quental (<a href="https://github.com/aquental">@aquental</a>).
 - :eyes: Passionate about Web3 (Bitcoin, Ethereum, Solana, L2 &amp; L3 protocols, cryptography & security).
 - :detective: Studying **Z**ero **K**nowledge and its use on _Blockchain_ and _ML_.
-- :hammer:  Go, Rust, Python, C, Java, Solidity, and L2 scaling solutions.
+- :hammer:  Go, Rust, Python, C, Java, Solidity, Cairo, and L2 scaling solutions.
 - :chart_with_upwards_trend: experienced in _Agile_, _Sequential_ and _Hybrid_ project and product management.
 - :seedling: I’m researching SmartContracts, Dapps, ZK Proofs, Security, Staking, and NFTs and experimenting with L1 and L2 blockchains.
 - :sunglasses: Trying to bring some [Clarity](https://clarity-lang.org/) to my [Bitcoin](https://bitcoin.org/en/) [Stacks](https://www.stacks.co/).
