@@ -39,6 +39,8 @@ aquental/aquental is a ✨ special :sparkles: repository because its `README.md`
 
 <a href="https://app.daily.dev/aquental"><img src="https://api.daily.dev/devcards/v2/uWPwJijWSh14csYv5jfq1.png?type=wide&r=tfv" width="652" alt="Antonio J J Quental Jr's Dev Card"/></a>
 
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/aquental.png)
+
 :mailbox: Reach me at
 [![Twitter Badge](https://img.shields.io/badge/-@antonioquental-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/antonioquental)](https://twitter.com/antonioquental), 
 [![Linkedin Badge](https://img.shields.io/badge/-antonioquental-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonioquental)](https://www.linkedin.com/in/antonioquental), 
