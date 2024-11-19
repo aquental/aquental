@@ -9,6 +9,7 @@
 - :book: Researching Bitcoin´s Layer 2 & Sidechain ecosystem at [Bitcoin Talents](https://web3-talents.io/bitcoin-talents/) ([here](https://medium.com/@antonio.quental/fast-transactions-low-fees-bitcoins-layer-2-a3ca0f1d2315)) and [Bitcoin Dev Lauchpad](https://vinteum.org/bdl/).
 - :globe_with_meridians: Languages: English (<a href="https://www.efset.org/cert/2MBRa1">C2 proficient</a>), Portuguese (native), Spanish (basic), French (basic).
 - :books: learning about [cryptography](https://www.coursera.org/learn/crypto), [solidity](https://updraft.cyfrin.io/), [bitcoin](https://web3-talents.io/bitcoin-talents/), [digital currencies](https://www.unic.ac.cy/unic-launches-mooc-in-introduction-to-digital-currencies-msc-in-digital-currency/) and [AI](https://cloudonair.withgoogle.com/events/startup-school-ai).
+- :classical_building My boot camp journey [here](bootcamp.md)
 
 <!---
 aquental/aquental is a ✨ special :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
