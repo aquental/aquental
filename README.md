@@ -2,11 +2,11 @@
 - :wave: Hi, I’m Antonio Quental (<a href="https://github.com/aquental">@aquental</a>).
 - :eyes: Passionate about Web3 (Bitcoin, Ethereum, Solana, L2 &amp; L3 protocols, cryptography & security).
 - :detective: Studying **Z**ero **K**nowledge and its use on _Blockchain_ and _ML_.
-- :hammer:  Go, Rust, Python, C, Java, Solidity, Cairo, and L2 scaling solutions.
+- :hammer:  C, Java, Python, Go, Rust, Solidity, Cairo, and L2 scaling solutions.
 - :chart_with_upwards_trend: experienced in _Agile_, _Sequential_ and _Hybrid_ project and product management.
 - :seedling: I’m researching SmartContracts, Dapps, ZK Proofs, Security, Staking, and NFTs and experimenting with L1 and L2 blockchains.
-- :sunglasses: Trying to bring some [Clarity](https://clarity-lang.org/) to my [Bitcoin](https://bitcoin.org/en/) [Stacks](https://www.stacks.co/).
-- :book: Researching Bitcoin´s Layer 2 & Sidechain ecosystem at [Bitcoin Talents](https://web3-talents.io/bitcoin-talents/) ([here](https://medium.com/@antonio.quental/fast-transactions-low-fees-bitcoins-layer-2-a3ca0f1d2315)).
+<!--- - :sunglasses: Trying to bring some [Clarity](https://clarity-lang.org/) to my [Bitcoin](https://bitcoin.org/en/) [Stacks](https://www.stacks.co/). -->
+- :book: Researching Bitcoin´s Layer 2 & Sidechain ecosystem at [Bitcoin Talents](https://web3-talents.io/bitcoin-talents/) ([here](https://medium.com/@antonio.quental/fast-transactions-low-fees-bitcoins-layer-2-a3ca0f1d2315)) and [Bitcoin Dev Lauchpad](https://vinteum.org/bdl/).
 - :globe_with_meridians: Languages: English (<a href="https://www.efset.org/cert/2MBRa1">C2 proficient</a>), Portuguese (native), Spanish (basic), French (basic).
 - :books: learning about [cryptography](https://www.coursera.org/learn/crypto), [solidity](https://updraft.cyfrin.io/), [bitcoin](https://web3-talents.io/bitcoin-talents/), [digital currencies](https://www.unic.ac.cy/unic-launches-mooc-in-introduction-to-digital-currencies-msc-in-digital-currency/) and [AI](https://cloudonair.withgoogle.com/events/startup-school-ai).
 
