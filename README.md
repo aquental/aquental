@@ -26,11 +26,11 @@ aquental/aquental is a ✨ special :sparkles: repository because its `README.md`
     <a target="_blank"href="https://www.gitpoap.io/gp/879"><img height=175 alt="Ethereum.org GitHub Contributor 2023" src="https://www.gitpoap.io/_next/image?url=https%3A%2F%2Fassets.poap.xyz%2Fgitpoap3a-2023-ethereumorg-contributor-2022-logo-1671568487547.png&w=750&q=75" />&nbsp;&nbsp;
 </p>
 --->
+<!--
 ## :bulb: Feeling lucky?
 
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-
+-->
 ## 🔎 Studying
 <!--
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65b1b25c0c54812283333925?variant=dark)](https://roadmap.sh)
