@@ -1,17 +1,20 @@
   
 - :wave: Hi, I’m Antonio Quental (<a href="https://github.com/aquental">@aquental</a>).
 - :eyes: Passionate about Web3 (Bitcoin, Ethereum, Solana, Polkadot, L2 &amp; L3 protocols, cryptography & security).
-- :detective: Studying **Z**ero **K**nowledge and its use on _Blockchain_ and _ML_.
+- :detective: Studying **Z**ero **K**nowledge and its use on _Blockchain_ and _ML_ and lately AI Agents :robot:.
 - :hammer:  C, Java, Python, Go, Rust, Solidity, Cairo, and L2 scaling solutions.
 - :chart_with_upwards_trend: experienced in _Agile_, _Sequential_ and _Hybrid_ project and product management.
-- :seedling: I’m researching SmartContracts, Dapps, ZK Proofs, Security, Staking, and NFTs and experimenting with L1 and L2 blockchains.
-- :book: Researching Bitcoin´s Layer 2 & Sidechain ecosystem at [Bitcoin Talents](https://web3-talents.io/bitcoin-talents/) ([here](https://medium.com/@antonio.quental/fast-transactions-low-fees-bitcoins-layer-2-a3ca0f1d2315)), [ReFi Talents](https://web3-talents.io/refi-talents/) and [Bitcoin Dev Lauchpad](https://vinteum.org/bdl/).
+- :seedling: I'm researching SmartContracts, Dapps, ZK Proofs, Security, Staking, and NFTs, and experimenting with L1 and L2 blockchains.
+- :book: Researching Bitcoin´s Layer 2 & Sidechain ecosystem at [Bitcoin Talents](https://web3-talents.io/bitcoin-talents/) ([here](https://medium.com/@antonio.quental/fast-transactions-low-fees-bitcoins-layer-2-a3ca0f1d2315)), and [ReFi Talents](https://web3-talents.io/refi-talents/).
 - :globe_with_meridians: Languages: English (<a href="https://www.efset.org/cert/2MBRa1">C2 proficient</a>), Portuguese (native), Spanish (basic), French (basic).
-- :books: learning about cryptography, solidity, bitcoin, digital currencies and AI.
-- :classical_building: My [boot camp](bootcamp.md) and [hackathon](hackathon.md) journey 
+- :books: learning about cryptography, solidity, bitcoin, digital currencies, and AI.
+
+<!---
+- :classical_building: My [boot camp](bootcamp.md) and [hackathon](hackathon.md) journey
+-->
 
 ## 🔎 Studying
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65b1b25c0c54812283333925?variant=dark&roadmaps=blockchain%2Cgolang%2Csql%2Crust)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/65b1b25c0c54812283333925?variant=dark&roadmaps=rust%2Cproduct-manager%2Cblockchain%2Caws)
 
 :mailbox: Reach me at
 [![Twitter Badge](https://img.shields.io/badge/-@antonioquental-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/antonioquental)](https://twitter.com/antonioquental), 
