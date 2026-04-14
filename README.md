@@ -8,6 +8,7 @@
 - :book: Researching Bitcoin´s Layer 2 & Sidechain ecosystem at [Bitcoin Talents](https://web3-talents.io/bitcoin-talents/) ([here](https://medium.com/@antonio.quental/fast-transactions-low-fees-bitcoins-layer-2-a3ca0f1d2315)), and [ReFi Talents](https://web3-talents.io/refi-talents/).
 - :globe_with_meridians: Languages: English (<a href="https://www.efset.org/cert/2MBRa1">C2 proficient</a>), Portuguese (native), Spanish (basic), French (basic).
 - :books: learning about cryptography, solidity, bitcoin, digital currencies, and AI.
+- :trophy: 3rd place at [Tenderly](https://github.com/agentscore-trustless) track on Chainlink Global Hackathon march/26.
 
 <!---
 - :classical_building: My [boot camp](bootcamp.md) and [hackathon](hackathon.md) journey
