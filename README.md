@@ -15,24 +15,30 @@
 -->
 
 ## 🔎 Studying
-[![roadmap.sh](https://roadmap.sh/card/wide/65b1b25c0c54812283333925?variant=dark&roadmaps=rust%2Cproduct-manager%2Cblockchain%2Caws)
+![roadmap.sh](https://roadmap.sh/card/wide/65b1b25c0c54812283333925?variant=dark&roadmaps=rust%2Cproduct-manager%2Cblockchain%2Caws)
 
-:mailbox: Reach me at
-[![Twitter Badge](https://img.shields.io/badge/-@antonioquental-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/antonioquental)](https://twitter.com/antonioquental), 
-[![Linkedin Badge](https://img.shields.io/badge/-antonioquental-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonioquental)](https://www.linkedin.com/in/antonioquental), 
-[![GitHub followers](https://img.shields.io/github/followers/aquental?label=Follow&style=social)](https://github.com/aquental/?tab=follow)
+## :mailbox: Reach me at
+[![X](https://www.shieldcn.dev/x/follow/antonioquental.svg?variant=branded&size=sm)](https://x.com/antonioquental), 
+[![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40antonioquental-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://www.linkedin.com/in/antonioquental),
+[![Medium](https://www.shieldcn.dev/badge/Medium-Medium-000000.svg?logo=medium&variant=branded&size=sm)](https://medium.com/@antonio)
+
+</div>
+
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/aquental.svg?variant=secondary&size=sm)](https://github.com/aquental?tab=followers) 
+[![GitHub Stars](https://www.shieldcn.dev/github/user-stars/aquental.svg?variant=secondary&size=sm)](https://github.com/aquental?tab=repositories) 
+[![Public Repos](https://www.shieldcn.dev/badge/Repos-104-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/aquental?tab=repositories)
 
 
+</div>
 
-<!---
-Trash section
--->
+## 🛠️ Skills & Technologies
 
-<!--
-<a href="https://app.daily.dev/aquental"><img src="https://api.daily.dev/devcards/v2/uWPwJijWSh14csYv5jfq1.png?type=wide&r=tfv" width="652" alt="Antonio J J Quental Jr's Dev Card"/></a>
+![Rust](https://www.shieldcn.dev/badge/-Rust-000000.svg?logo=rust&variant=branded&size=sm)
+![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm)
+![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm)
+![Elixir](https://www.shieldcn.dev/badge/-Elixir-4B275F.svg?logo=elixir&variant=branded&size=sm)
+![Svelte](https://www.shieldcn.dev/badge/-Svelte-FF3E00.svg?logo=svelte&variant=branded&size=sm)
 
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/aquental.png)
--->
 
 <!---
 aquental/aquental is a ✨ special :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,3 +55,7 @@ aquental/aquental is a ✨ special :sparkles: repository because its `README.md`
     <a target="_blank"href="https://www.gitpoap.io/gp/879"><img height=175 alt="Ethereum.org GitHub Contributor 2023" src="https://www.gitpoap.io/_next/image?url=https%3A%2F%2Fassets.poap.xyz%2Fgitpoap3a-2023-ethereumorg-contributor-2022-logo-1671568487547.png&w=750&q=75" />&nbsp;&nbsp;
 </p>
 --->
+
+---
+
+<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
