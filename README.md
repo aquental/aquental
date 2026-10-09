@@ -1,21 +1,17 @@
-  
-- :wave: Hi, I’m Antonio Quental (<a href="https://github.com/aquental">@aquental</a>).
-- :eyes: Passionate about Web3 (Bitcoin, Ethereum, Solana, Polkadot, L2 &amp; L3 protocols, cryptography & security).
-- :detective: Studying **Z**ero **K**nowledge and its use on _Blockchain_ and _ML_ and lately AI Agents :robot:.
-- :hammer:  C, Java, Python, Go, Rust, Solidity, Cairo, and L2 scaling solutions.
-- :chart_with_upwards_trend: experienced in _Agile_, _Sequential_ and _Hybrid_ project and product management.
-- :seedling: I'm researching SmartContracts, Dapps, ZK Proofs, Security, Staking, and NFTs, and experimenting with L1 and L2 blockchains.
-- :book: Researching Bitcoin´s Layer 2 & Sidechain ecosystem at [Bitcoin Talents](https://web3-talents.io/bitcoin-talents/) ([here](https://medium.com/@antonio.quental/fast-transactions-low-fees-bitcoins-layer-2-a3ca0f1d2315)), and [ReFi Talents](https://web3-talents.io/refi-talents/).
-- :globe_with_meridians: Languages: English (<a href="https://www.efset.org/cert/2MBRa1">C2 proficient</a>), Portuguese (native), Spanish (basic), French (basic).
-- :books: learning about cryptography, solidity, bitcoin, digital currencies, and AI.
-- :trophy: 3rd place at [Tenderly](https://github.com/agentscore-trustless) track on Chainlink Global Hackathon march/26.
+* 👋 Hi, I'm Antonio Quental ([@aquental](https://github.com/aquental)). Engineer and product leader working at the intersection of AI agents and Web3.
+* 🚀 Built and scaled engineering at early-stage and high-growth startups, from first commit to product-market fit and beyond.
+* 🏆 3rd place, Tenderly track, Chainlink Convergence Hackathon 2026: [AgentScore](https://github.com/agentscore-trustless), on-chain reputation for autonomous AI agents.
+* 🔬 Researching AI agent harnesses and building Rust tooling for Claude Code: [ripwire-broker](https://github.com/aquental/ripwire-broker), an MCP server that injects code context with a token budget.
+* ⛓️ Web3 since the early days: Bitcoin L2s and sidechains ([research](https://medium.com/@antonio.quental/fast-transactions-low-fees-bitcoins-layer-2-a3ca0f1d2315) with [Bitcoin Talents](https://web3-talents.io/bitcoin-talents/)), ZK proofs, smart contract security, L2 scaling.
+* 🔨 Elixir, Rust, Go, Python, Solidity, Cairo, Java, C. Agile, sequential, and hybrid product management.
+* 🌐 English ([C2](https://www.efset.org/cert/2MBRa1)), Portuguese (native), basic Spanish and French.
 
 <!---
 - :classical_building: My [boot camp](bootcamp.md) and [hackathon](hackathon.md) journey
--->
 
 ## 🔎 Studying
 ![roadmap.sh](https://roadmap.sh/card/wide/65b1b25c0c54812283333925?variant=dark&roadmaps=rust%2Cproduct-manager%2Cblockchain%2Caws)
+-->
 
 ## :mailbox: Reach me at
 [![X](https://www.shieldcn.dev/x/follow/antonioquental.svg?variant=branded&size=sm)](https://x.com/antonioquental), 
@@ -34,11 +30,11 @@
 ## 🛠️ Skills & Technologies
 
 ![Rust](https://www.shieldcn.dev/badge/-Rust-000000.svg?logo=rust&variant=branded&size=sm)
+![Elixir](https://www.shieldcn.dev/badge/-Elixir-4B275F.svg?logo=elixir&variant=branded&size=sm)
+![Go](https://www.shieldcn.dev/badge/-Go-00ADD8.svg?logo=go&variant=branded&mode=light)
 ![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm)
 ![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm)
-![Elixir](https://www.shieldcn.dev/badge/-Elixir-4B275F.svg?logo=elixir&variant=branded&size=sm)
 ![Svelte](https://www.shieldcn.dev/badge/-Svelte-FF3E00.svg?logo=svelte&variant=branded&size=sm)
-
 
 <!---
 aquental/aquental is a ✨ special :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
