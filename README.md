@@ -4,6 +4,7 @@
 * 🔬 Researching AI agent harnesses and building Rust tooling for Claude Code: [ripwire-broker](https://github.com/aquental/ripwire-broker), an MCP server that injects code context with a token budget.
 * ⛓️ Web3 since the early days: Bitcoin L2s and sidechains ([research](https://medium.com/@antonio.quental/fast-transactions-low-fees-bitcoins-layer-2-a3ca0f1d2315) with [Bitcoin Talents](https://web3-talents.io/bitcoin-talents/)), ZK proofs, smart contract security, L2 scaling.
 * 🔨 Elixir, Rust, Go, Python, Solidity, Cairo, Java, C. Agile, sequential, and hybrid product management.
+* 🤝 Open-source contributor to ethereum.org and Taiko (2023), [verified on-chain](https://collectors.poap.xyz/scan/0x994cca07c9f25fe84211ea61b61eab5552a32c6d).
 * 🌐 English ([C2](https://www.efset.org/cert/2MBRa1)), Portuguese (native), basic Spanish and French.
 
 <!---
